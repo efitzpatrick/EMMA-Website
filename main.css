@@ -14,15 +14,22 @@
 
 .circle{
 	float: left;
-	margin: 25px;
+	display:block;
+	margin: 10px;
 	width:100px;
 	height:100px;
-	border-radius:100px;
+	border-radius:50px;
 	font-size:20px;
 	color:palevioletred;
 	line-height:100px;
 	text-align:center;
-	background:palevioletred;
+	text-decoration:none;
+	background: palevioletred;
+}
+
+.circle:hover{
+	text-decoration:none;
+	background: mediumvioletred;
 }
 
 h1 {

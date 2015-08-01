@@ -1,0 +1,14 @@
+ul {
+	list-style-type: none;
+  	font-family: 'Chelsea Market', cursive; 
+}
+li {
+	font-size: 18px;
+	font-family: 'Chelsea Market', cursive; 
+}
+h2{
+	font-family: 'Chelsea Market', cursive;
+}
+body { 
+     columns:2;
+ }
