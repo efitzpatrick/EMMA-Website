@@ -1,3 +1,8 @@
+
+body {
+	background-color: rgb(171,205,239);
+}
+
 .nav a {
   color: white;
   font-size: 24px;
@@ -41,7 +46,4 @@ h1 {
 iframe {
 	margin-top: 100px;
 	float: left;
-}
-body {
-	background-color: rgb(171,205,239);
 }
