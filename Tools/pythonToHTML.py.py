@@ -13,13 +13,8 @@ txt = """
 	* [Vocals](vocals-8-3.html)
 
 ## Tuesday
-* Morning
-	* [Choreography](choreo-8-4-m.html)
-	* [Blocking](blocking-8-4.html)
-* Afternoon
-	* [Turn the Beat Around](TTBA-8-4.html)
-* Evening
-	* [All Group Numbers](../Lists/act-1.html)
+* [Blocking](blocking-8-4.html)
+* [Vocals](../Lists/act-1.html)
 
 ## Wednesday
 * Morning
