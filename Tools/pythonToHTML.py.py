@@ -14,13 +14,12 @@ txt = """
 
 ## Tuesday
 * Morning
-	* [Watta Man](.html)
-	* [Straight Up](.html)
+	* [Choreography](choreo-8-4-m.html)
+	* [Blocking](blocking-8-4.html)
 * Afternoon
-	* [Turn the Beat Around](.html)
+	* [Turn the Beat Around](TTBA-8-4.html)
 * Evening
-	* [All Group Numbers](.html)
-	* [Block Scene 5](.html)
+	* [All Group Numbers](../Lists/act-1.html)
 
 ## Wednesday
 * Morning
