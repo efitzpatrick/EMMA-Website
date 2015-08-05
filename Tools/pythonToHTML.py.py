@@ -17,16 +17,9 @@ txt = """
 * [Vocals](../Lists/act-1.html)
 
 ## Wednesday
-* Morning
-	* Choreography
-		* [Brave](.html)
-		* [Unwritten]()
-	* Blocking
-		* [Block pg 75-76]()
-		* [Block pg 77]()
-* Afternoon
-	* [Work Scene 4 thru end]()
-* [Parent's Meeting](.html)
+* [Watta Man](8-4-m.html)
+* [Turn the Beat Around](TTBA-8-4.html)
+* [Parent's Meeting](../Lists/act-1.html)
 
 ## Thrusday
 * [Act 1 Scene 3]()
